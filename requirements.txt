@@ -2,3 +2,5 @@ Flask
 pandas
 joblib
 scikit-learn
+numpy
+matplotlib
